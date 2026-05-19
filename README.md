@@ -25,7 +25,7 @@ Alongside shipping my own projects, I create content sharing the behind-the-scen
 
 ---
 
-## 🧠 What I do
+## 💼 My skills 
 
 -   🌐 Fullstack web development (React + Spring Boot)
 -   🏗️ SaaS & scalable systems
@@ -72,6 +72,18 @@ Alongside shipping my own projects, I create content sharing the behind-the-scen
 
 > _"Code that drives ROI.  
 > I build products at the intersection of smart architecture, solid engineering, and execution tailored to deliver market value."_
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasramostech&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasramostech&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
