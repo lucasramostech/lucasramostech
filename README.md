@@ -75,17 +75,6 @@ Alongside shipping my own projects, I create content sharing the behind-the-scen
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasramostech&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasramostech&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 🎯 Always learning
 
