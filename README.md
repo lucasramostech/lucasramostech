@@ -1,81 +1,28 @@
-# Hello World 👋, I'm Lucas Ramos
+# Hi, I'm Lucas Ramos 👋
 
-🚀 **Junior Fullstack Developer**  
-🇧🇷 Brazil
+Software Engineer in the making, from Brazil 🇧🇷.
 
-I build and scale **profitable digital products**. Software engineer by trade and entrepreneur by heart, I'm focused on creating **high-performance SaaS platforms** and **market-validated solutions**.
+I'm early in this journey but serious about it, and I'd rather do things the solid way than the fast way. This profile is a logbook of that path: every repo is something I built to actually learn, not just to fill space. It grows as I do.
 
-Alongside shipping my own projects, I create content sharing the behind-the-scenes of **tech, SaaS, and entrepreneurship** to help developers and founders grow.
+### What I do
 
----
+Right now I work with the fundamentals: programming logic, algorithms and data structures, plus HTML, CSS, JavaScript, and Git, building projects from scratch to lock in the basics.
 
-## 🌐 Where to find me
+Where I'm headed: fullstack development. The plan is to master the vanilla side first, then layer frameworks on top of a foundation I actually understand. The long-term goal is to build complete, real-world products end to end, from the logic underneath to the interface on top. Java for the backend is my next step in that direction.
 
-<p align="left">
-  <a href="https://github.com/lucasramostech">
-    <img src="https://img.shields.io/badge/GitHub-lucasramostech-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-ramos-dev-fullstack/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/lucas.ramos1618">
-    <img src="https://img.shields.io/badge/Instagram-@lucas.ramos1618-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+### Stack
 
----
-
-## 💼 My skills 
-
--   🌐 Fullstack web development (React + Spring Boot)
--   🏗️ SaaS & scalable systems
--   🔒 Secure APIs with JWT & Spring Security
--   🗄️ Database modeling with MySQL
--   🐳 Docker, Kubernetes & CI/CD pipelines
--   ☁️ AWS cloud deployment
--   💡 Tech entrepreneurship & digital products
--   🎓 Content creation & developer community
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### Links
 
-
-
-## 🗿 Philosophy
-
-> _"Code that drives ROI.  
-> I build products at the intersection of smart architecture, solid engineering, and execution tailored to deliver market value."_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ramos-dev-fullstack/)
 
 ---
 
+> Learning by building. One fundamental at a time.
 
-🎯 Always learning
-
-🏆 Always focusing
+_This README is a living document. Every time I learn a new stack or level up a skill, it gets updated, so it's always a snapshot of where I am right now._
