@@ -19,6 +19,7 @@ Where I'm headed: fullstack development. The plan is to master the vanilla side 
 ![API REST](https://img.shields.io/badge/API-REST-0078D7?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 
 
