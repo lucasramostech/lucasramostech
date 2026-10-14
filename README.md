@@ -6,9 +6,7 @@ I'm early in this journey but serious about it, and I'd rather do things the sol
 
 ### What I do
 
-Right now I'm working on the fundamentals: programming logic, algorithms, data structures, HTML, CSS, JavaScript, REST APIs, and Java building projects from scratch to lock in the basics.
-
-Where I'm headed: fullstack development. The plan is to master the vanilla side first, then layer frameworks on top of a foundation I actually understand. The long-term goal is to build complete, real-world products end to end, from the logic underneath to the interface on top. Java for the backend is my next step in that direction.
+I focus on backend development with Java and Spring Boot, building REST APIs and learning how to design reliable applications. I'm also exploring relational databases, especially PostgreSQL, and how to model, query, and manage data effectively.
 
 ### Stack
 
@@ -20,6 +18,7 @@ Where I'm headed: fullstack development. The plan is to master the vanilla side 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 
